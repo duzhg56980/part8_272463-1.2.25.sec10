@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.JSONObject;
+public class FunctionUse1635 {
+public void funcUse() {
+JSONObject jsonobject = new JSONObject();
+}
+}
